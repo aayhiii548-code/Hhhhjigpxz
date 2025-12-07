@@ -2,9 +2,9 @@
 -- Config & System Prompt
 -- =========================
 local config = {
-    api_key = "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",
+    api_key = "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",
     base_url = "https://openrouter.ai/api/v1",
-    model = "kwaipilot/kat-coder-pro:free",
+    model = "amazon/nova-2-lite-v1:free",
     language = "Thai"
 }
 
