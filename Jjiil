@@ -2,7 +2,7 @@
 -- Config & System Prompt
 -- =========================
 local config = {
-    api_key = "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",
+    api_key = "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",
     base_url = "https://openrouter.ai/api/v1",
     model = "kwaipilot/kat-coder-pro:free",
     language = "Thai"
